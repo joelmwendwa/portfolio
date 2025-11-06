@@ -4,7 +4,7 @@
 Welcome to my personal portfolio!
 This website showcases my web development projects, skills, and experience.
 
-🌐 Live Demo: https://joelmwendwa.github.io/portfolio
+🌐 Live Demo: 
 
 🚀 About the Project
 
